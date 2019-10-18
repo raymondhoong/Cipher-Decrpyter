@@ -1,6 +1,4 @@
-# CS32-Project4
-
-## Cipher-Decrypter
+# Cipher-Decrypter
 
 Decrypts a cipher and returns all possible solutions. I made this project as an assignment for my class. The only files provided from the instructor are provided.h and the referenced dictionary word list text file.
 
